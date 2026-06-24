@@ -1,0 +1,1 @@
+I show how relying on basic SQL to pull data limits your growth as a data analyst. I demonstrate practical queries to uncover data quality issues, user behavior, peak demand, and business insights using real e-bike rental data.
