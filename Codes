@@ -1,0 +1,7 @@
+use store;
+describe rides
+;
+select * from users;
+select * from stations;
+select * from rides;
+
